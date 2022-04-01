@@ -1,2 +1,2 @@
-# echoes-Frontend
-EchoesLang's Frontend
+# echoes-site
+EchoesLang's site
