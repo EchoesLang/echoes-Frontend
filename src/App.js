@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <div className="App-link">
-        <a href="/" className="linker">GO HOME</a>
+        <a href="http://nympheia.site" className="linker">GO HOME</a>
       </div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
